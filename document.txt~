@@ -1,6 +1,0 @@
--First: turn on fastboot
-- sudo su
-- fastboot devices
-- fastboot boot boot.img
-and then choose file: update.zip
-the end
